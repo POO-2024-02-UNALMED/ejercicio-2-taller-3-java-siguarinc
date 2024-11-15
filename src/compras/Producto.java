@@ -2,8 +2,8 @@ package compras;
 
 public class Producto {
     
-    public final int codigo;
-    public String nombre;
+    private final int codigo;
+    private String nombre;
     public String tipo;
     public static int totalProductosPedidos;
 
